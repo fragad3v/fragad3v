@@ -49,9 +49,16 @@ Desde sempre apaixonado por tecnologia, encontrei na programação minha princip
 
 ### 📊 Estatísticas do GitHub
 
+### 📊 Linguagens & Ecossistema
+
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=fragad3v&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragad3v&layout=compact&theme=tokyonight&hide_progress=false&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fragad3v&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/fragad3v">
+    <img src="https://skillicons.dev/icons?i=java,go,cs,dotnet,postgres,mysql,python,php,js,spring,docker,git&theme=dark" />
+  </a>
 </p>
 
 ---
