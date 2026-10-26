@@ -47,7 +47,6 @@ Desde sempre apaixonado por tecnologia, encontrei na programação minha princip
 
 ---
 
-### 📊 Estatísticas do GitHub
 
 ### 📊 Linguagens & Ecossistema
 
