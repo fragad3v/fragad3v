@@ -22,14 +22,13 @@ Sou estudante de **Ciência da Computação** pela FADERGS e formado em **Análi
 
 Desde sempre apaixonado por tecnologia, encontrei na programação minha principal área de interesse e atuação. Uno a **disciplina, responsabilidade e foco em resultados** da carreira militar (ex-membro da Força Aérea Brasileira) ao desenvolvimento de software, com foco em desenvolvimento backend, arquitetura de sistemas, criação de APIs REST, segurança e persistência de dados.
 
-Busco oportunidades como **Desenvolvedor Backend**, contribuindo com soluções eficientes, seguras e bem estruturadas.
 
 ---
 
 ### 💼 Experiência Profissional
 
 - **Frigelar** | *Estagiário de Arquitetura de Software* (out. de 2026 – o momento)
-  - Atuação na área de arquitetura de software, com foco em ecossistema .NET (C#), práticas de Scrum e estrutura de APIs REST.
+  - Atuação na área de arquitetura de software, com foco em ecossistema .NET (C#) e Go lang, práticas de Scrum e estrutura de APIs REST.
 - **Força Aérea Brasileira (FAB)** | *Soldado* (mar. de 2022 – fev. de 2026)
   - Atuação na área administrativa e operacional, desenvolvendo alta capacidade de organização, trabalho sob pressão, liderança e disciplina.
 
@@ -43,8 +42,8 @@ Busco oportunidades como **Desenvolvedor Backend**, contribuindo com soluções 
 
 - **Linguagens:** Java, C# (.NET), Go, Python, PHP, JavaScript
 - **Frameworks & Libs:** Spring Boot, Spring Data JPA, Spring Security, Hibernate
-- **Bancos de Dados:** PostgreSQL, MySQL
-- **Ferramentas & Práticas:** APIs REST, Git, GitHub, Maven, Scrum
+- **Bancos de Dados:** PostgreSQL, MySQL, MondoDB
+- **Ferramentas & Práticas:** APIs REST, Git, GitHub, Maven, Scrum, Kanban
 
 ---
 
